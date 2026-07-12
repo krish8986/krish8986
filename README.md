@@ -88,6 +88,10 @@ Machine Learning project for loan approval prediction using:
 
 https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
 
+🌐 Live Demo
+
+https://aipredictivemodelscreditunderwriting-26rzikruvgbmmonyrg75oj.streamlit.app/
+
 ---
 
 # 🌱 Currently Learning
