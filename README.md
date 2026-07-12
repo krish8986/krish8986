@@ -126,6 +126,7 @@ Machine Learning project for predicting loan approval probability using supervis
 - System Design
 - RAG
 - AI Backend Engineering
+- Basic CI/CD
 
 ---
 
