@@ -1,40 +1,62 @@
-<h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-Backend & Full Stack Developer • MERN • Node.js • Redis • Docker
-</h3>
+# Hi 👋 I'm Krishna Kumar
 
-<p align="center">
-Building production-grade backend systems, scalable web applications and AI-powered solutions.
-</p>
+### Backend Engineer • Full Stack Developer • MERN • Node.js
 
-<p align="center">
-<a href="https://github.com/krish8986">
-<img src="https://komarev.com/ghpvc/?username=krish8986&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Full+Stack+Developer;Building+Production-Grade+Applications;Node.js+%7C+Redis+%7C+Docker+%7C+React;Always+Learning+Something+New"/>
 
-<a href="https://github.com/krish8986?tab=followers">
-<img src="https://img.shields.io/github/followers/krish8986?label=Followers&style=social" />
-</a>
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech (ECE) with Minor in AI/ML  
-📍 MAIT, GGSIPU (2026)
+- 🎓 B.Tech (ECE) with Minor in AI/ML — **MAIT, GGSIPU (2026)**
+- 💻 Passionate about **Backend Engineering** and **Full Stack Development**
+- 🚀 Interested in building scalable backend systems and production-grade applications
+- 🌱 Currently learning **System Design**, **Distributed Systems**, **Backend Scalability**, and **AI Integrations**
 
-💻 Backend & Full Stack Developer passionate about designing scalable backend systems, clean architecture and production-ready applications.
+---
 
-Currently focused on:
+# 🚀 Featured Project
 
-- Backend Engineering
-- Distributed Systems
-- System Design
-- AI Integrations
-- Performance Optimization
+## 🌿 Aranya — Production-Grade MERN E-Commerce Platform
 
+A production-ready full-stack e-commerce platform built using modern backend engineering practices.
+
+### Highlights
+
+- 🔐 JWT Authentication + Refresh Token Rotation
+- ⚡ Redis Server-side Caching
+- 📦 Socket.io Real-time Order Tracking
+- 💳 Razorpay Payment Integration
+- ☁️ Cloudinary Image Storage
+- 📧 OTP Verification & Email Notifications
+- 🐳 Docker Support
+- 📊 Admin Analytics Dashboard
+- ⭐ Product Reviews & Ratings
+- 📝 Winston Logging
+- ✅ Zod Validation
+
+### Links
+
+- 🌐 **Live:** https://aranya-ecommerce-self.vercel.app
+- 📂 **Repository:** https://github.com/krish8986/Aranya-Ecommerce
+- 🎥 **Demo:** *(Add your YouTube demo link here)*
+
+---
+
+# 🤖 AI Project
+
+## AI Predictive Methods for Credit Underwriting
+
+Machine Learning project for predicting loan approval probability using supervised learning models and Hugging Face.
+
+### Links
+
+- 📂 Repository: https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
+- 🌐 **Live:** https://aipredictivemodelscreditunderwriting-26rzikruvgbmmonyrg75oj.streamlit.app/
 ---
 
 # 🛠 Tech Stack
@@ -63,125 +85,74 @@ Currently focused on:
 <img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
 </p>
 
-### Currently Exploring
+### Tools & Platforms
 
-- System Design
+- Cloudinary
+- Railway
+- Vercel
+- MongoDB Atlas
+- Socket.io
+- JWT
+- Razorpay
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krish8986&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish8986&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=krish8986&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- Backend Scalability
 - Distributed Systems
+- System Design
 - RAG
 - AI Backend Engineering
 
 ---
 
-# 🌟 Featured Project
-
-## 🌿 Aranya — Production Grade MERN E-Commerce Platform
-
-A production-ready MERN application built using modern backend engineering practices.
-
-### Highlights
-
-- JWT Authentication
-- Refresh Token Rotation
-- Redis Server-side Caching
-- Socket.io Real-time Updates
-- Razorpay Integration
-- Cloudinary Image Storage
-- Docker Support
-- OTP Email Verification
-- Admin Analytics
-- Product Reviews
-- Winston Logging
-- Zod Validation
-
-### Links
-
-🚀 Live Demo
-
-https://aranya-ecommerce-self.vercel.app
-
-📂 Repository
-
-https://github.com/krish8986/Aranya-Ecommerce
-
-🎥 Demo Video
-
-https://www.youtube.com/
-
----
-
-# 🤖 AI Project
-
-### AI Predictive Credit Underwriting
-
-Machine Learning application for predicting loan approval probability using supervised learning and Hugging Face.
-
-### Links
-
-Repository
-
-https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
-
-🚀 Live Demo
-
-https://aipredictivemodelscreditunderwriting-26rzikruvgbmmonyrg75oj.streamlit.app/
-
----
-
-# 📈 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krish8986&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish8986&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=krish8986&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌱 Current Focus
-
-- Production-grade Backend Development
-- MERN Stack
-- System Design
-- Distributed Systems
-- AI Integrations
-- Software Engineering Best Practices
-
----
-
-# 🤝 Connect With Me
-
-<p>
 
 <a href="https://www.linkedin.com/in/krishna-kumar-7558a1229/">
-LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-•
+<a href="mailto:krishnagaya234@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 <a href="https://68a81d12b665dedf24c2ad37--teal-mermaid-bd6f9b.netlify.app/">
 Portfolio
 </a>
 
-•
-
-<a href="mailto:krishnagaya234@gmail.com">
-Email
-</a>
-
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Improve. Repeat."*
+
+</div>
