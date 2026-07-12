@@ -43,7 +43,7 @@ A production-ready full-stack e-commerce platform built using modern backend eng
 
 - 🌐 **Live:** https://aranya-ecommerce-self.vercel.app
 - 📂 **Repository:** https://github.com/krish8986/Aranya-Ecommerce
-- 🎥 **Demo:** *(Add your YouTube demo link here)*
+- 🎥 **Demo:** https://www.loom.com/share/b15913f724eb4df5bfc9961d48e7d22f
 
 ---
 
