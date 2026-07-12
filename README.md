@@ -1,22 +1,39 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 
 <h3 align="center">
-Backend & Full Stack Developer | MERN | Node.js | Redis | Docker
+Backend & Full Stack Developer • MERN • Node.js • Redis • Docker
 </h3>
 
 <p align="center">
-Building scalable backend systems, production-grade web applications, and AI-powered solutions.
+Building production-grade backend systems, scalable web applications and AI-powered solutions.
+</p>
+
+<p align="center">
+<a href="https://github.com/krish8986">
+<img src="https://komarev.com/ghpvc/?username=krish8986&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/krish8986?tab=followers">
+<img src="https://img.shields.io/github/followers/krish8986?label=Followers&style=social" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech (ECE) with Minor in AI/ML — MAIT, GGSIPU
-- 💻 Backend & Full Stack Developer
-- 🌱 Currently learning System Design, Distributed Systems, and Backend Scalability
-- 🚀 Passionate about building production-grade software
-- 📫 Reach me at: **krishnagaya234@gmail.com**
+🎓 B.Tech (ECE) with Minor in AI/ML  
+📍 MAIT, GGSIPU (2026)
+
+💻 Backend & Full Stack Developer passionate about designing scalable backend systems, clean architecture and production-ready applications.
+
+Currently focused on:
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- AI Integrations
+- Performance Optimization
 
 ---
 
@@ -24,100 +41,147 @@ Building scalable backend systems, production-grade web applications, and AI-pow
 
 ### Languages
 
-JavaScript • Python • C++
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" />
+</p>
 
 ### Frontend
 
-React.js • HTML • CSS • Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT • Bcrypt
-
-### Database
-
-MongoDB • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
 ### Infrastructure
 
-Redis • Docker • Socket.io • Cloudinary
+<p>
+<img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
+</p>
 
-### Tools
+### Currently Exploring
 
-Git • GitHub • Postman • MongoDB Atlas
+- System Design
+- Distributed Systems
+- RAG
+- AI Backend Engineering
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Project
 
 ## 🌿 Aranya — Production Grade MERN E-Commerce Platform
 
-Production-ready MERN application featuring:
+A production-ready MERN application built using modern backend engineering practices.
 
-- Redis Caching
+### Highlights
+
 - JWT Authentication
-- Refresh Tokens
-- Razorpay Payments
-- Socket.io
-- Docker
-- Cloudinary
+- Refresh Token Rotation
+- Redis Server-side Caching
+- Socket.io Real-time Updates
+- Razorpay Integration
+- Cloudinary Image Storage
+- Docker Support
+- OTP Email Verification
 - Admin Analytics
-- OTP Verification
-- Email Notifications
+- Product Reviews
+- Winston Logging
+- Zod Validation
 
-🔗 Repository
+### Links
 
-https://github.com/krish8986/Aranya-Ecommerce
-
-🌐 Live Demo
+🚀 Live Demo
 
 https://aranya-ecommerce-self.vercel.app
 
+📂 Repository
+
+https://github.com/krish8986/Aranya-Ecommerce
+
+🎥 Demo Video
+
+https://www.youtube.com/
+
 ---
 
-## 🤖 AI Predictive Credit Underwriting
+# 🤖 AI Project
 
-Machine Learning project for loan approval prediction using:
+### AI Predictive Credit Underwriting
 
-- Python
-- Streamlit
-- Scikit-Learn
-- Hugging Face
+Machine Learning application for predicting loan approval probability using supervised learning and Hugging Face.
 
-🔗 Repository
+### Links
+
+Repository
 
 https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
 
-🌐 Live Demo
+🚀 Live Demo
 
 https://aipredictivemodelscreditunderwriting-26rzikruvgbmmonyrg75oj.streamlit.app/
 
 ---
 
-# 🌱 Currently Learning
+# 📈 GitHub Stats
 
-- Backend Scalability
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krish8986&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish8986&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=krish8986&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Current Focus
+
+- Production-grade Backend Development
+- MERN Stack
 - System Design
 - Distributed Systems
 - AI Integrations
+- Software Engineering Best Practices
 
 ---
 
-# 📊 GitHub Stats
+# 🤝 Connect With Me
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish8986&show_icons=true)
+<p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish8986&layout=compact)
+<a href="https://www.linkedin.com/in/krishna-kumar-7558a1229/">
+LinkedIn
+</a>
+
+•
+
+<a href="https://68a81d12b665dedf24c2ad37--teal-mermaid-bd6f9b.netlify.app/">
+Portfolio
+</a>
+
+•
+
+<a href="mailto:krishnagaya234@gmail.com">
+Email
+</a>
+
+</p>
 
 ---
 
-# 🤝 Connect
-
-- 💼 LinkedIn
-  https://www.linkedin.com/in/krishna-kumar-7558a1229/
-
-- 🌐 Portfolio
-  https://68a81d12b665dedf24c2ad37--teal-mermaid-bd6f9b.netlify.app/
-
-- 📧 Email
-  krishnagaya234@gmail.com
+⭐ Thanks for visiting my profile!
