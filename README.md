@@ -142,7 +142,7 @@ Machine Learning project for predicting loan approval probability using supervis
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://68a81d12b665dedf24c2ad37--teal-mermaid-bd6f9b.netlify.app/">
+<a href="https://portfolio-krishna-kumar-20s.netlify.app/">
 Portfolio
 </a>
 
