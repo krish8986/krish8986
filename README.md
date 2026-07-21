@@ -49,15 +49,19 @@ A production-ready full-stack e-commerce platform built using modern backend eng
 
 # 🤖 AI Project
 
-## AI Predictive Methods for Credit Underwriting
+## AI Credit Underwriting Platform
 
-Machine Learning project for predicting loan approval probability using supervised learning models and Hugging Face.
+Production-ready AI-powered credit underwriting platform that automates loan approval prediction using Machine Learning, Explainable AI, and a FastAPI-based backend. The application includes a Streamlit dashboard, SHAP-based model explanations, PDF report generation, and a Retrieval-Augmented Generation (RAG) assistant for context-aware credit underwriting queries.
+
+### Tech Stack
+
+Python • FastAPI • Streamlit • Scikit-learn • SHAP • FAISS • Groq LLM • Docker
 
 ### Links
 
-- 📂 Repository: https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
-- 🌐 **Live:** https://aipredictivemodelscreditunderwriting-26rzikruvgbmmonyrg75oj.streamlit.app/
----
+- 📂 **Repository:** https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting
+- 🌐 **Live Demo:** https://ai-predictive-methods-for-credit-underwriting-dfqmcy7nmn2bczde.streamlit.app
+- ⚡ **API Docs:** https://ai-predictive-methods-for-credit.onrender.com/docs
 
 # 🛠 Tech Stack
 
